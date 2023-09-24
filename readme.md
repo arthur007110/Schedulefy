@@ -27,6 +27,8 @@ O campo de horário tem somente duas opções de preenchimento a princípio:
 - **Segunda Aula**: Indica que a disciplina ocorre na segunda aula do dia
   Atualizações futuras podem adicionar mais opções de preenchimento.
 
+Nota: Se a disciplina for ministrada em mais de um horário, basta adicionar uma linha para cada horário.
+
 ### Gerando a grade de horários
 
 Primeiramente clone o repositório:
